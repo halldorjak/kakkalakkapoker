@@ -1,0 +1,2 @@
+# kakkalakkapoker
+Cockroach poker (icelandic)
